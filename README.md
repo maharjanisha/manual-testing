@@ -1,6 +1,6 @@
 # OpenCart eCommerce Application – Manual Testing
 
-**Features Tested**
+**Features Tested** <br>
 User Registration – Verified account creation with valid and invalid data.
 
 Login/Logout – Tested user login and logout functionality.
